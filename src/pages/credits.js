@@ -55,7 +55,7 @@ function Support() {
           <Obfuscate>Others</Obfuscate>
         </div>
         <div className="itemtext">
-          <Obfuscate>Everyone else in the TN/Fog community :)</Obfuscate>
+          <Obfuscate>Honestly I DemonCode Just brought back this I didnt not make it >:)</Obfuscate>
         </div>
       </div>
     </>
