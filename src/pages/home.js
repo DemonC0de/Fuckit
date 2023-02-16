@@ -131,7 +131,7 @@ function Home() {
 
   return (
     <>
-      <Head defaultTitle="DemonC0de"></Head>
+      <Head defaultTitle="Reader-Books"></Head>
       <Proxy ref={proxy} />
       <Nav />
       <div className="hometitle">
@@ -169,9 +169,6 @@ function Home() {
       </div>
       <div className="footer">
         <div>
-          <Link className="footersides link" to="/privacy.html">
-            Privacy
-          </Link>
           <Link className="footersides link" to="/credits.html">
             Credits
           </Link>
@@ -180,15 +177,6 @@ function Home() {
           <Obfuscate>© Metallic 2022 - </Obfuscate>{new Date().getFullYear()}
         </div>
         <div>
-          <a className="footersides link" href="https://discord.gg/yk33HZSZkU">
-            Discord
-          </a>
-          <a
-            className="footersides link"
-            href="https://github.com/Nebelung-Dev/Metallic"
-          >
-            Github
-          </a>
         </div>
       </div>
     </>
