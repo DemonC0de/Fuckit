@@ -131,7 +131,7 @@ function Home() {
 
   return (
     <>
-      <Head defaultTitle="Metallic"></Head>
+      <Head defaultTitle="DemonC0de"></Head>
       <Proxy ref={proxy} />
       <Nav />
       <div className="hometitle">
